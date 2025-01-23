@@ -9,13 +9,11 @@
 <br/>
 
 <div align="center">
-    - 👋 Hi, I’m @shubh0607
-    - 👀 I’m interested in ...
-    - 🌱 I’m currently learning Web-Dev
-    - 📫 How to reach me jadhavshubhamb1@gmail.com
-    
-
- </div>
+  - 👋 Hi, I’m @shubh0607<br>
+  - 👀 I’m interested in ... <br>
+  - 🌱 I’m currently learning Web-Dev <br>
+  - 📫 How to reach me jadhavshubhamb1@gmail.com
+</div>
  
 <div align="center"> 
   <a href="jadhavshubhamb1@gmail.com">
